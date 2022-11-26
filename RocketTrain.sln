@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RocketTrain", "RocketTrain.vcxproj", "{3EA89DA2-4CC1-47DB-981C-1B6F4B52ED71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA89DA2-4CC1-47DB-981C-1B6F4B52ED71}.Debug|x64.ActiveCfg = Debug|x64
+		{3EA89DA2-4CC1-47DB-981C-1B6F4B52ED71}.Debug|x64.Build.0 = Debug|x64
+		{3EA89DA2-4CC1-47DB-981C-1B6F4B52ED71}.Release|x64.ActiveCfg = Release|x64
+		{3EA89DA2-4CC1-47DB-981C-1B6F4B52ED71}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A77B9AF-00AB-4429-8809-2DDAB3AE1401}
+	EndGlobalSection
+EndGlobal
